@@ -1,4 +1,4 @@
-# PRODIGY_NT-2-
+# PRODIGY_NT2
 # Image Encryption Using Pixel Manipulation
 This project demonstrates a simple image encryption and decryption tool using pixel manipulation techniques in Python. It is part of my internship at Prodigy InfoTech, where I am focusing on cybersecurity and ethical hacking.
 
